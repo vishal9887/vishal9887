@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VishalJain&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal Jain Profile Views" /> </p>
 
-I'm a B.Tech student at the **Indian Institute Of Information Technology, Ranchi**, with hands-on experience in building scalable, end-to-end web applications, focusing on the **MERN** stack. I also have a strong foundation in **Data Structures & Algorithms** (DSA) and competitive programming.
+[cite_start]I'm a B.Tech student at the **Indian Institute Of Information Technology, Ranchi** [cite: 4][cite_start], with hands-on experience in building scalable, end-to-end web applications, focusing on the **MERN** stack[cite: 14]. [cite_start]I also have a strong foundation in **Data Structures & Algorithms** (DSA) [cite: 12] and competitive programming.
 
 ---
 
 ### 💻 My Focus: Full Stack Development
 
-My expertise lies in developing production-ready functionality, including secure authentication, optimized APIs, and seamless UI/UX.
+[cite_start]My expertise lies in developing production-ready functionality, including secure authentication, optimized APIs, and seamless UI/UX[cite: 19, 21].
 
-* **Experience:** MERN Stack Developer Intern at Urban Orbits.
-* **Key Skills:** Building and optimizing **RESTful APIs** using **Node.js/Express** and creating responsive **React** components with **Tailwind CSS**.
-* **Core Coursework:** Data Structures Algorithms, OOPs, Operating Systems, DBMS, Computer Networks.
+* [cite_start]**Experience:** MERN Stack Developer Intern at Urban Orbits[cite: 14].
+* [cite_start]**Key Skills:** Building and optimizing **RESTful APIs** using **Node.js/Express** and creating responsive **React** components with **Tailwind CSS**[cite: 19, 20].
+* [cite_start]**Core Coursework:** Data Structures Algorithms, OOPs, Operating Systems, DBMS, Computer Networks[cite: 12].
 
 ---
 
@@ -21,19 +21,19 @@ My expertise lies in developing production-ready functionality, including secure
 
 | Project Name | Description | Technologies |
 | :--- | :--- | :--- |
-| **Edemy - An LMS Website** | Architected a course sales platform with a secure **Stripe API** payment flow and automated enrollment. Implemented **Role-Based Access Control (RBAC)** and used **Context API** for global state management. | React.js, Node.js, Express.js, MongoDB, Clerk, Stripe, Cloudinary |
-| **Food Delivery App** | Launched a full-stack MERN ordering system with a seamless 3-step checkout via **Stripe API** and a comprehensive admin panel for **CRUD** operations on 32+ inventory items. | React.js, Node.js, Express.js, MongoDB, Stripe API, Multer |
-| **Real-Time Chat App** | Orchestrated a bi-directional messaging system with **Socket.io**, achieving sub-second message delivery and live online status updates. Secured with **JWT** and featured Cloudinary integration for image uploads. | React.js, Node.js, Express.js, MongoDB, Socket.io, JWT, Cloudinary |
+| [cite_start]**Edemy - An LMS Website** [cite: 23] | * [cite_start]Implemented **Stripe API** for secure payments and automated student enrollment [cite: 25][cite_start].<br>* Secured the platform with **Role-Based Access Control (RBAC)** [cite: 27][cite_start].<br>* Utilized the **Context API** to efficiently manage global state for 15+ API endpoints. | [cite_start]React.js, Node.js, Express.js, MongoDB, Clerk, Stripe, Cloudinary [cite: 24] |
+| [cite_start]**Food Delivery App** [cite: 29] | * [cite_start]Full-stack MERN ordering system with secure **3-step checkout** using **Stripe API** [cite: 31][cite_start].<br>* Delivered a comprehensive admin panel with **full CRUD** functionality for 32+ inventory items [cite: 33][cite_start].<br>* Features a **live order tracking** system using a RESTful Node.js API. | React.js, Node.js, Express.js, MongoDB, Stripe API, Multer [cite: 30] |
+| [cite_start]**Real-Time Chat App** [cite: 35] | * [cite_start]Engineered a **real-time, bi-directional messaging** system using **Socket.io** [cite: 37][cite_start].<br>* Achieved sub-second message delivery and live online status updates [cite: 37][cite_start].<br>* Secured with **JWT** and implemented **Cloudinary** for image uploads. | [cite_start]React.js, Node.js, Express.js, MongoDB, Socket.io, JWT, Cloudinary [cite: 36] |
 
 ---
 
 ### 🏆 Competitive Programming & Achievements
 
-I have solved **900+** problems across various platforms.
+[cite_start]I have solved **900+** problems across various platforms[cite: 42].
 
-* **Codeforces:** Specialist (Peak rating: 1455)
-* **CodeChef:** 3-Star Coder (Maximum rating: 1664)
-* **Contest Ranks:** Secured Global Ranks of **127** and **612** in CodeChef Starters 139 and 140 (Div. 2) respectively.
+* [cite_start]**Codeforces:** Specialist (Peak rating: 1455) [cite: 43]
+* [cite_start]**CodeChef:** 3-Star Coder (Maximum rating: 1664) [cite: 44]
+* [cite_start]**Contest Ranks:** Secured Global Ranks of **127** and **612** in CodeChef Starters 139 and 140 (Div. 2) respectively[cite: 45].
 
 ---
 
@@ -56,7 +56,7 @@ I have solved **900+** problems across various platforms.
 
 ### 📫 Connect with Me
 
-* **Email:** vj7933663@gmail.com
+* [cite_start]**Email:** vj7933663@gmail.com [cite: 2]
 * **LinkedIn:** [Vishal Jain's LinkedIn](https://www.linkedin.com/in/vishal-jain-5661b0257/)
 
 <h4 align="left">Competitive Programming Profiles:</h4>
