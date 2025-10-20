@@ -1,67 +1,70 @@
-<h1 align="center">Hi 👋, I'm Vishal Jain</h1>
+<h1 align="center">Vishal Jain</h1>
 <h3 align="center">MERN Stack Developer | Aspiring SDE | Competitive Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VishalJain&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal Jain Profile Views" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0e75b6&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Vishal+Jain;MERN+Stack+Developer;Competitive+Programming)](https://git.io/typing-svg)
 
-I'm a B.Tech student at the **Indian Institute Of Information Technology, Ranchi**, with hands-on experience in building scalable, end-to-end web applications, focusing on the **MERN** stack. I also have a strong foundation in **Data Structures & Algorithms** (DSA) and competitive programming.
-
----
-
-### 💻 My Focus: Full Stack Development
-
-My expertise lies in developing production-ready functionality, including secure authentication, optimized APIs, and seamless UI/UX.
-
-* **Experience:** MERN Stack Developer Intern at Urban Orbits.
-* **Key Skills:** Building and optimizing **RESTful APIs** using **Node.js/Express** and creating responsive **React** components with **Tailwind CSS**.
-* **Core Coursework:** Data Structures Algorithms, OOPs, Operating Systems, DBMS, Computer Networks.
+<div align="center">
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-jain-5661b0257/)
+    [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vj7933663@gmail.com)
+</div>
 
 ---
 
-### 💡 Featured Projects
+## 👨‍💻 Full Stack Development & Expertise
 
-| Project Name | Description | Technologies |
-| :--- | :--- | :--- |
-| **Edemy - An LMS Website** | * Implemented **Stripe API** for secure payments and automated student enrollment.<br>* Secured the platform with **Role-Based Access Control (RBAC)**.<br>* Utilized the **Context API** to efficiently manage global state for 15+ API endpoints. | React.js, Node.js, Express.js, MongoDB, Clerk, Stripe, Cloudinary |
-| **Food Delivery App** | * Full-stack MERN ordering system with secure **3-step checkout** using **Stripe API**.<br>* Delivered a comprehensive admin panel with **full CRUD** functionality for 32+ inventory items.<br>* Features a **live order tracking** system using a RESTful Node.js API. | React.js, Node.js, Express.js, MongoDB, Stripe API, Multer |
-| **Real-Time Chat App** | * Engineered a **real-time, bi-directional messaging** system using **Socket.io**.<br>* Achieved sub-second message delivery and live online status updates.<br>* Secured with **JWT** and implemented **Cloudinary** for image uploads. | React.js, Node.js, Express.js, MongoDB, Socket.io, JWT, Cloudinary |
+I'm a B.Tech student at the **Indian Institute Of Information Technology, Ranchi**, specializing in **end-to-end web development** using the **MERN** stack. I focus on building scalable, production-ready functionality, emphasizing secure authentication and optimized APIs.
+
+* **Experience:** MERN Stack Developer Intern at **Urban Orbits**.
+* **Key Skills:** Building and optimizing **RESTful APIs** using **Node.js/Express** and developing responsive frontends with **React** and **Tailwind CSS**.
+* **Foundation:** Strong background in **Data Structures & Algorithms (DSA)**, OOPs, OS, and DBMS.
 
 ---
 
-### 🏆 Competitive Programming & Achievements
+## 🏆 Competitive Programming & Achievements
 
-I have solved **900+** problems across various platforms.
+My competitive programming experience ensures proficiency in writing efficient, high-performance code. I have solved **900+** problems across various platforms.
 
-* **Codeforces:** Specialist (Peak rating: 1455)
-* **CodeChef:** 3-Star Coder (Maximum rating: 1664)
+* **Codeforces:** **Specialist** (Peak rating: 1455)
+* **CodeChef:** **3-Star Coder** (Maximum rating: 1664)
 * **Contest Ranks:** Secured Global Ranks of **127** and **612** in CodeChef Starters 139 and 140 (Div. 2) respectively.
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
+## 💡 Featured Projects (Impact Focused)
+
+| Project Name | Key Impact & Technologies |
+| :--- | :--- |
+| **Edemy - An LMS Website** | Implemented **Stripe API** for secure payments and **Role-Based Access Control (RBAC)**. Managed global state efficiently with **Context API** for 15+ API endpoints. |
+| **Food Delivery App** | Full-stack MERN ordering system with secure **3-step checkout** (Stripe API). Features comprehensive admin panel with **full CRUD** for 32+ inventory items and **live order tracking**. |
+| **Real-Time Chat App** | Engineered a **real-time, bi-directional messaging** system using **Socket.io**. Achieved sub-second message delivery and secured the API with **JWT**. |
 
 ---
 
-### 📫 Connect with Me
+## 🛠️ Core Tech Stack
 
-* **Email:** vj7933663@gmail.com
-* **LinkedIn:** [Vishal Jain's LinkedIn](https://www.linkedin.com/in/vishal-jain-5661b0257/)
+### Backend & Databases
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)&nbsp;
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)&nbsp;
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)&nbsp;
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)&nbsp;
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com)&nbsp;
 
-<h4 align="left">Competitive Programming Profiles:</h4>
-<p align="left">
-    <a href="https://leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://codeforces.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.codechef.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
-</p>
+### Frontend & Languages
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)&nbsp;
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)&nbsp;
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/)&nbsp;
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;
+
+---
+
+## 📊 Connect with Me
+
+<div align="center">
+    <br>
+    [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
+    [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+    [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/)
+    <br><br>
+    ![Vishal Jain Profile Views](https://komarev.com/ghpvc/?username=VishalJain&label=Profile%20views&color=0e75b6&style=flat)
+</div>
