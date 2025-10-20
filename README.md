@@ -58,8 +58,7 @@ I have solved **900+** problems across various platforms.
 ### 📫 Connect with Me
 
 * **Email:** vj7933663@gmail.com
-* **LinkedIn:** [Vishal Jain's LinkedIn]
-* **GitHub:** [Vishal Jain's GitHub]
+* **LinkedIn:** [Vishal Jain's LinkedIn](https://www.linkedin.com/in/vishal-jain-5661b0257/)
 
 <h4 align="left">Competitive Programming Profiles:</h4>
 <p align="left">
