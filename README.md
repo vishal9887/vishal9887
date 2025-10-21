@@ -66,4 +66,3 @@ I have solved **900+** problems across various platforms.
     <a href="https://www.codechef.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
 </p>
 
-keep it small more recruiter friendly only take improtant sections
